@@ -1,0 +1,16 @@
+{
+  "name": "web-scraping",
+  "version": "1.0.0",
+  "description": "GitHub issues scraper",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Amit",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.10",
+    "pdfkit": "^0.12.1",
+    "request": "^2.88.2"
+  }
+}
